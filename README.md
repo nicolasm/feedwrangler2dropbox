@@ -33,7 +33,7 @@ The login won't be used as you need only the access token to use the API.
 * Create a .backup folder in your home.
 * Write your passphrase in a .passphrase.txt file inside that folder.
 * Cron the backup_feeds_and_smart_streams.sh script.
-* I use a Hazel rule that clean old backups.
+* I use a Hazel rule that cleans old backups.
 
 ## Requirements
 

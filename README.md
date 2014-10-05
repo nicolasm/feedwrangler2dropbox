@@ -17,7 +17,11 @@ Create an encrypted backup of your Feed Wrangler feeds and smart streams to Drop
 
 ## How to setup?
 
-* Add a feedwrangler.net entry with your api token to your .netrc in your home folder.
+* In order to get an access token:
+    * [Create][0] a client key.
+    * [Get][1] an access token.
+
+* Add a feedwrangler.net entry with your access token to your .netrc in your home folder.
 ```
 machine feedwrangler.net
         login email
@@ -25,10 +29,6 @@ machine feedwrangler.net
 ```
 
 The login won't be used as you need only the access token to use the API.
-
-* In order to get an access token:
-    * [Create][0] a client key.
-    * [Get][1] an access token.
 
 * Create a .backup folder in your home.
 * Write your passphrase in a .passphrase.txt file inside that folder.

@@ -26,7 +26,7 @@ machine feedwrangler.net
 
 The login won't be used as you need only the access token to use the API.
 
-In order to get an access token:
+* In order to get an access token:
     * [Create][0] a client key.
     * [Get][1] an access token.
 

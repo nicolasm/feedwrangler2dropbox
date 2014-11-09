@@ -1,7 +1,8 @@
 feedwrangler2dropbox
 ====================
 
-Create an encrypted backup of your Feed Wrangler feeds and smart streams to Dropbox.
+Create an encrypted backup of your Feed Wrangler feeds and smart streams to Dropbox
+or a raw backup (no encryption) to SpiderOak.
 
 ## How does it work?
 
